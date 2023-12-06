@@ -18,4 +18,5 @@ const App = () => {
   )
 }
 
+// Muy importante el export para que no se rompa la app
 export default App
